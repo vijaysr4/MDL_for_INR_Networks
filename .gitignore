@@ -1,0 +1,14 @@
+# images
+*.png
+# csv
+*.csv
+# Data
+kodak_all
+# Plots
+plots
+final_plots
+model/final_plots
+
+# env
+AI_INR
+
